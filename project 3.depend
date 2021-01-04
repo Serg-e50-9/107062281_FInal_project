@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1609766930 source:c:\users\serge\onedrive\desktop\3rd year first  semester\data structure\project 3\algorithm_ta.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"algorithm.h"
+
+1609149071 c:\users\serge\onedrive\desktop\3rd year first  semester\data structure\project 3\algorithm.h
+	"board.h"
+
+1609149071 c:\users\serge\onedrive\desktop\3rd year first  semester\data structure\project 3\board.h
+	"player.h"
+
+1609149071 c:\users\serge\onedrive\desktop\3rd year first  semester\data structure\project 3\player.h
+
+1609769947 source:c:\users\serge\onedrive\desktop\3rd year first  semester\data structure\project 3\algorithm_st.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"algorithm.h"
+
+1609149098 source:c:\users\serge\onedrive\desktop\3rd year first  semester\data structure\project 3\player.cpp
+	"player.h"
+	<iostream>
+
+1609751403 source:c:\users\serge\onedrive\desktop\3rd year first  semester\data structure\project 3\rules.cpp
+	"rules.h"
+	<iostream>
+
+1609149071 c:\users\serge\onedrive\desktop\3rd year first  semester\data structure\project 3\rules.h
+	<iostream>
+	"player.h"
+	"board.h"
+
+1609149114 source:c:\users\serge\onedrive\desktop\3rd year first  semester\data structure\project 3\board.cpp
+	<iostream>
+	"board.h"
+	"rules.h"
+
+1609320938 source:c:\users\serge\onedrive\desktop\3rd year first  semester\data structure\project 3\main.cpp
+	<iostream>
+	"board.h"
+	"player.h"
+	"rules.h"
+	"algorithm.h"
+
